@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Volley-Ball Score</string>
+
+    <!-- Page d'acceuil -->
+    <string name="home_page_title">Home Menu</string>
+    <string name="home_page_match_creation_button">Create A Match</string>
+    <string name="home_page_quit">Quit</string>
+
+    <!-- Menu creation equipe -->
+    <string name="team_page_title">Team Menu</string>
+    <string name="team_menu_creation">Create Two Teams</string>
+    <string name="match_name_hint">Name Your Match</string>
+    <string name="team_page_validate">Confirm</string>
+    <string name="text_team1_hint">ex: Antibes</string>
+    <string name="text_team2_hint">ex: Nice</string>
+    <string name="team_menu_back">back</string>
+
+    <!-- Page creation equipe -->
+    <string name="team_creation_page_title">Team Page Creation</string>
+    <string name="add_team_page_name_input_1">@string/match_page_team_1</string>
+    <string name="add_team_page_name_input_2">@string/match_page_team_2</string>
+
+    <string name="team_creation_page_back">back</string>
+
+    <!-- Page Match -->
+    <string name="match_page_title">Match Game</string>
+    <string name="match_page_team_1">Team 1 Name</string>
+    <string name="match_page_team_2">Team 2 Name</string>
+    <string name="match_page_points">Points</string>
+    <string name="match_page_set">Set</string>
+    <string name="team_page_back">back Menu</string>
+
+</resources>
